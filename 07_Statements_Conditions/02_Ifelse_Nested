@@ -1,0 +1,16 @@
+let age=26;
+if(age>=20) {
+ console.log("GO Goa");
+
+if (age>25){
+
+    console.log("Drink");
+    
+}else
+{
+     console.log("No Drink");
+}
+}else
+{
+    console.log("No Goa");
+}
