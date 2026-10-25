@@ -13,4 +13,4 @@ console.log("" == "0"); // false, both strings, compared as-is
 // === fixes it
 console.log("" === 0);       // false
 console.log("0" === 0);      // false
-console.log("" === "0");     // false //always use ===
+console.log("" === "0");     // false //always use 
